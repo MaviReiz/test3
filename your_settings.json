@@ -1,0 +1,27 @@
+{
+    "token": "NTEwNzMzNDYyOTI4MzU5NDQ0.Dtn8sg.UDng-MBlSqLU7SrL75WglDJLnbQ",
+    "prefix": "!",
+    "rainbowdelay": 1500,
+    "rainbowcommand": "rainbow",
+    "rainbowstop": "dur",
+    "rainbowrole": [
+        "#9400D3",
+        "#4B0082",
+        "#0000FF",
+        "#00FF00",
+        "#FFFF00",
+        "#FF7F00",
+        "#FF0000",
+		"#8B0000",
+		"#8FBC8F",
+		"#66CDAA",
+		"#00FFFF",
+		"#7FFFD4"
+    ],
+    "messageresponse": {
+        "missingperm": "Yetkiniz Bulunmamaktadır",
+        "success": "Rainbow Başladı",
+        "rainbowstop": "Rainbow Bitti",
+        "rolenotfound": "Rol Bulunamadı"
+    }
+}
