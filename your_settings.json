@@ -12,11 +12,11 @@
         "#FFFF00",
         "#FF7F00",
         "#FF0000",
-		"#8B0000",
-		"#8FBC8F",
-		"#66CDAA",
-		"#00FFFF",
-		"#7FFFD4"
+	"#8B0000",
+	"#8FBC8F",
+	"#66CDAA",
+	"#00FFFF",
+	"#7FFFD4"
     ],
     "messageresponse": {
         "missingperm": "Yetkiniz Bulunmamaktadır",
