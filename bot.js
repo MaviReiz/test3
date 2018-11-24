@@ -27,5 +27,6 @@ bot.on('message', message => {
            
                        message.channel.send(settings.messageresponse.rainbowstop).catch(err=> message.channel.send("No response"))
                        }
+bot.user.setGame('By MaviReiz')
 });
 bot.login(settings.token).catch(err=> console.log("Incorrect Token was provided"))
